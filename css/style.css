@@ -1,0 +1,18 @@
+.head-h{
+    font-size: 80px;
+    font-family: Impact;
+    
+}
+p{
+    font-size: 35px;
+}
+.btn-quota{
+    width: 250px;
+    background-color: blue;
+    border-radius: 0;
+    border: 2px #222 solid;
+}
+.btn-quota:hover{
+    background-color: green;
+    border: 2px #222 solid;
+}
